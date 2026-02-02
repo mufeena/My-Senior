@@ -1,2 +1,2 @@
 #output
-https://mufeena.github.io/My-Senior/
+ https://mufeena.github.io/My-Senior/
